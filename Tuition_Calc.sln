@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tuition_Calc", "Tuition_Calc\Tuition_Calc.pyproj", "{2C4128AB-AE3E-4243-8AF1-02084A474A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4128AB-AE3E-4243-8AF1-02084A474A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4128AB-AE3E-4243-8AF1-02084A474A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E59C49F5-7523-4AD1-9CCA-CCAE0438CE9F}
+	EndGlobalSection
+EndGlobal
